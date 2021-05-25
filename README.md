@@ -4,3 +4,5 @@
 - `git status`: gives you the status
 - `git add <FILE>`: adds <FILE> to staging area
 - `git commit`: commits files from staging area
+    - `git commit -m MESSAGE": commit without opening editor
+
