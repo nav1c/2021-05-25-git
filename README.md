@@ -12,3 +12,9 @@
    
 - `.gitignore`: ignore pattern match file
 - `.gitkeep`: convention to keep a empty folder
+
+## remotes
+
+- `git remote add <NAME> <URL>`: <NAME=origin> point to the remote
+- `git push <WHERE> <WHAT>`: local repo -> remote
+
